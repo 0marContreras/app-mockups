@@ -1,6 +1,6 @@
 # Lens: Application mockup
 
-Lens is a fictional application mobile application for landscape photography. You can check the low and high fidelity mockup documentation in the links below
+Lens is a fictional mobile application for landscape photography. You can check the low and high fidelity mockup documentation in the links below
 
 <ul>
   <li><a href='https://github.com/0marContreras/app-mokups/tree/master/Low%20fidelity%20mokup'>Low fidelity mokup</a></li>
