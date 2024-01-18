@@ -5,4 +5,4 @@ Lens is a fictional application mobile application for landscape photography. Yo
 
 
 ![logo](https://github.com/0marContreras/app-mokups/blob/master/images/logo.png?raw=true)
-![alt text](http://url/to/img.png)
+
