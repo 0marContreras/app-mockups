@@ -62,6 +62,6 @@ This is how edit profile screen looks like:
 
 # Conclusions
 
-This UI was designed to be the most confortable as posible to bring users a good application usage experience. There may be little UI changes in the <a href='https://github.com/0marContreras/app-mokups/tree/master/High%20fidelity%20mokup'>high fidelity mockup.</a>
+This UI was designed to be the most confortable as posible to bring users a good application usage experience. There may be little UI changes in the <a href='https://github.com/0marContreras/app-mokups/tree/master/High%20fidelity%20mockup'>high fidelity mockup.</a>
 
 <img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw.png?raw=true'>
