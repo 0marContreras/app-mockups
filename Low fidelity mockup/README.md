@@ -58,8 +58,9 @@ Inside my profile page the user can check his own profile and posts. Here you ar
 <img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-myprofile.png?raw=true'>
 
 This is how edit profile screen looks like:
+<p align='left'>
 <img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-edit.png?raw=true'>
-
+</p>
 # Conclusions
 
 This UI was designed to be the most confortable as posible to bring users a good application usage experience. There may be little UI changes in the <a href='https://github.com/0marContreras/app-mokups/tree/master/High%20fidelity%20mockup'>high fidelity mockup.</a>
