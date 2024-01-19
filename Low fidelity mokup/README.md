@@ -34,3 +34,34 @@ Finally above all content there is a upload button for making new posts.
 The comments section is a popup window that appears when users tap the comment button inside a post. Users can post their own comments using the text input below and clicking the upload button they also can like other users comments. The popup is closed pressing the close button, sliding down or tapping outside the popup, this will return the user to the main page.
 <img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-comments.png?raw=true'>
 ## The upload page
+
+In the upload page, users can select a picture from a local file or take a photo with the camera. All the screen shows the camera and the user just have to take a photo. The following picture icon opens the local file selector.
+<img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-upload.png?raw=true'>
+## Explore/search page
+
+The explore page works as a traditional search bar where you can look for users and places. It shows in the entire screen the trending photos aligned in a grid.
+
+<img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-discover.png?raw=true'>
+
+# Profile pages
+
+## Other users profile
+
+This page contain all the user posts and its information such the information and the number of followers. This page contain a button to follow that user and all the posts  in a grid, user should scroll down to view more pictures from that profile.
+
+<img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-profile.png?raw=true'>
+
+## My profile
+
+Inside my profile page the user can check his own profile and posts. Here you are able to edit you basic information such as your username, email and profile picture and also users are able to change their passwords.
+
+<img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-myprofile.png?raw=true'>
+
+This is how edit profile screen looks like:
+<img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw-edit.png?raw=true'>
+
+# Conclusions
+
+This UI was designed to be the most confortable as posible to bring users a good application usage experience. There may be little UI changes in the <a href='https://github.com/0marContreras/app-mokups/tree/master/High%20fidelity%20mokup'>high fidelity mockup.</a>
+
+<img src='https://github.com/0marContreras/app-mokups/blob/master/images/Low%20fidelity/lw.png?raw=true'>
